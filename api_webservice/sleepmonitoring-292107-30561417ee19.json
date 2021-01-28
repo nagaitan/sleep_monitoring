@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sleepmonitoring-292107",
+  "private_key_id": "30561417ee19916b9492165c0c3ccaf473bc91b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD0q5Fo6Mab4oT5\nzvaGQfOz5S+k12q6vz17Wy4fY7l4TMe3nzWU1/7zsiuw1/AAWvGFjoYpvWIXZcJi\nhPJ2GYGtBoWpMZjdVRu7qFvjxEK46QL+DDVHPfbF29MzGREzlI9FmwAY5xRYVydi\n49LbxHeU544SxcgYAvdobtAwRaLrW5k0Q6krr2Ccl5ti+lYyGhB7wmmqLM8Yv+4G\ngB1TBFpioP/ZUorA+tqYiRT7QDQB+Gd83WJ4EMeIyPgoA4GqqHCls6v8xOc+xiXz\n0TfNxhdxliaJ6uKy8RbYTFN55K3tdNnlJFeHgkcOAgxOz4Kf5ot/z62tlHHBAqYT\nD5jVenkhAgMBAAECggEAKn8OP5GGxZafkCAhc4pLAOkC0HfWAt+qlx1sMmmI0ltL\nqRoPHW4yyzMcIZgwCG/DWXY62U8alYPIMoJy9o5RlrL2Tj/eFDtvGLYSV8pD6IgY\nS/Xk3x3lGdKnqU1mTnY0OFvGtYyVXQ6uOZ/mhONn/cYGSD5wFbOWM15j7K57sLMe\nRLIueRZlq+oDhvyJ+IKMvRpcHwwDo0czP0bvGxq+2B5aVDscGLPxt9J3EULYNERI\noWzEYl7/HaYJ2ej4qIcYLEdVYfgxCxkr9zizjwk3OGYBxQhbz5nS9SKqCwgZocPq\nLr3kHqV2m+Ajw+8MZ15V2FB0gUyvtEVWeNkML6OnzQKBgQD8fFd8ccVsUp9216Ha\nVdDNCcr/Q6lhWSZa10ouwoXXgduRqbtIRRxNZK6F5rcMFixHJHJzLDsDskMNVEng\nm3Zih9Py66l/ihWM48ahHce+QK9CfQPR1McQQFY7JhmTrd5Nk/l4jJ62lJgd+d9J\nKK1f7VEj0OgWneNtq69JWrky8wKBgQD4E2DB5OrE8PCTh+c6DfoG1+MxPrniID3f\naeeXe8jXPWbZ67rJOUbIIXm+Ss4qkoZdnSMhJxnOzGY31Tai7/DAeVP6zB5IktaJ\nWyRSXqdI/BGMyiC7ogMyLfQW5RLOpCCLwzYBq2W01Rwf8T7uRfoPMrn7mQrhSgFz\nJIZzwyzgmwKBgQDVupgAQvrBAIv2eQCMpzoyZwjM3sTiICpEmZw1Svsre8SXYJul\nyML1jLXjqXLoK1jd/C9Z6WYncd4qyWAkXtVvANXc+7qmuQgXFLWOq3vrRCxX1yXF\nmR3NVvjn5w+doH/fIdT7Q+YSXmUKcvudnW5uFqEp9WyRwKPFsaCXMtI1GwKBgHvR\n+D5vCvsno3yPncrtRPl7cguXWmJSY2+KxaxnfXRpUle9ACsFqp2jj8d6QPMg1W4O\nS4V1pb0Bape9lRq4ljsLk+4fSZJBsFE4q6VtVyPnpL7X+ISOtfeq1iVDSyLW6uO3\nmNI2gXpD0FjlKdr2FHzXfdrlpXeTX6vf9Df9l/23AoGBAK7F+ju+iwm91Itv6lJq\nBsg8hf1S1AoZOpj0JkTmb/PE69TzGMQeJ8QCCSRW2T0nTxWxou0XKjPPpiIXP25t\nGDg8qgW+oNKp1qGSpjwICkr3xWVO3ee4PN8WEs5rfbBQjU7O65a5z2SXyjCQHHfk\nxyzYNiDn20d0fSuKTIae6i1r\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-19mtx@sleepmonitoring-292107.iam.gserviceaccount.com",
+  "client_id": "109285868506049464159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-19mtx%40sleepmonitoring-292107.iam.gserviceaccount.com"
+}
