@@ -17,4 +17,8 @@
     3. Show Sleep Quality by Week
     4. Monitoring Heart Rate
 
+# Screenshots
+<img src="Screenshots/Login.jpeg" width=200 height=433> 
+<img src="Screenshots/Daily.jpeg" width=200 height=433> <img src="Screenshots/Weekly.jpeg" width=200 height=433> 
+<img src="Screenshots/HeartRate.jpeg" width=200 height=433> <img src="Screenshots/DoctorPage.jpg" width=200 height=433>
 
